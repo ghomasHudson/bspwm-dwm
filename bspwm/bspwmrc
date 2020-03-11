@@ -1,0 +1,11 @@
+#!/bin/sh
+
+sxhkd -c ~/.config/sxhkd/bspwm-sxhkdrc &
+~/.config/bspwm/masterlayout.sh&
+bspc config external_rules_command  ~/.config/bspwm/external_rules.sh
+
+bspc config borderless_monocle      true
+bspc config gapless_monocle         true
+bspc config focus_follows_pointer   true
+bspc config split_ratio             0.50
+bspc config removal_adjustment      false

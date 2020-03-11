@@ -16,5 +16,6 @@ Note: these only contain bspwm-specific sxhkd keybindings. I usually run another
 | Super + j/k | Change focus up/down window stack |
 | Super + shift + j/k | Swap up/down window stack |
 | Super + h/l | Move the centre split left/right |
-| Super + Space | Promote selected window to master |
+| Super + Space | Change focus to master |
+| Super + shift + Space | Promote current window to master |
 | Super + f | Toggle monocle mode |
