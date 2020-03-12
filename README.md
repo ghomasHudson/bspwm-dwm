@@ -9,7 +9,7 @@ Things to make bwpsm behave like dwm's master/stack layout. Based heavily on the
 - [x] Adjusting split position
 - [x] Promoting window to master
 - [x] Moving focus up/down stack
-- [x] Swapping windows up/down stack with `Super + Shift + j/k
+- [x] Swapping windows up/down stack with `Super + Shift + j/k`
 
 # Current key combos
 Note: these only contain bspwm-specific sxhkd keybindings. I usually run another sxhkd instance for general bindings (e.g. opening programs)
