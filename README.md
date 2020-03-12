@@ -3,6 +3,11 @@ Things to make bwpsm behave like dwm's master/stack layout. Based heavily on the
 
 ![Demo](https://user-images.githubusercontent.com/13795113/76475195-067a3b80-63f6-11ea-9458-0767a00863d7.gif)
 
+# Usage
+Copy things into the locations:
+- bspwm -> `~/.config/bspwm`
+- sxhkd -> `~/.config/sxhkd`
+- bin -> Somewhere on your PATH where you keep scripts e.g. `~/.local/bin` if you've added that.
 
 # Implementation Status
 - [x] Basic master stack
