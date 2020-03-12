@@ -21,4 +21,6 @@ Note: these only contain bspwm-specific sxhkd keybindings. I usually run another
 | Super + h/l | Move the centre split left/right |
 | Super + Space | Change focus to master |
 | Super + shift + Space | Promote current window to master |
+| Super + ,/. | Change focus to next/prev monitor |
+| Super + shift + ,/. | Move window to next/prev monitor |
 | Super + f | Toggle monocle mode |

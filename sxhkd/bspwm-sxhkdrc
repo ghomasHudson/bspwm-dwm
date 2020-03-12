@@ -28,6 +28,14 @@ super + {1-9,0}
 super + shift + {1-9,0}
     bspc node --to-desktop ^{1-9,10}
 
+# Change monitor
+super + {comma,period}
+    bspc monitor -f {next,prev}
+
+# Move to monitor
+super + shift + {comma,period}
+    bspc node -m {next,prev}
+
 # Fullscreen toggle
 super + f
     bspc desktop --layout next
