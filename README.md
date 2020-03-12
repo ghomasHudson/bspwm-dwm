@@ -1,6 +1,9 @@
 # bspwm-dwm
 Things to make bwpsm behave like dwm's master/stack layout. Based heavily on the work of [ortango](https://gist.github.com/ortango/398e8404b031e2990597575f0560618f).
 
+![Demo](https://user-images.githubusercontent.com/13795113/76475195-067a3b80-63f6-11ea-9458-0767a00863d7.gif)
+
+
 # Implementation Status
 - [x] Basic master stack
 - [x] Adjusting split position
